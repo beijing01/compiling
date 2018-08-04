@@ -1,0 +1,8 @@
+void jifloat2(){
+	int  y,c,d; 
+	float x,a= 0.13333443;b=0.653;
+	if(a<=b)
+	{
+		x = a+b*50;
+	}
+}
